@@ -55,4 +55,4 @@ install.packages(path_to_file, repos =NULL,type="source")
 ![公众号二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/master/pic/gongzhonghao2.jpg)
 
 # 加V进生信交流群
-![个人二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/master/pic/wechatcode2.jpg)
+![个人二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/master/pic/wechatcode3.jpg)
