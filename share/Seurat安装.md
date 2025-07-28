@@ -52,7 +52,7 @@ library(Seurat)
 install.packages(path_to_file, repos =NULL,type="source")
 ```
 # 关注公众号，不迷路
-![公众号二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/blob/master/pic/公众号二维码.jpg)
+![公众号二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/master/pic/gongzhonghao.jpg)
 
 # 加V进生信交流群
 ![个人二维码](https://raw.githubusercontent.com/NameAIAK/push-articles/master/pic/wechatcode.jpg)
