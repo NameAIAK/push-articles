@@ -53,4 +53,4 @@ install.packages(path_to_file, repos =NULL,type="source")
 ```
 ![公众号二维码](https://i-blog.csdnimg.cn/blog_migrate/d176c418dcdff5481c6f80c9cb169362.gif#pic_center)
 
-![个人二维码](https://i-blog.csdnimg.cn/blog_migrate/d176c418dcdff5481c6f80c9cb169362.gif#pic_center)
+![个人二维码](https://github.com/NameAIAK/push-articles/blob/master/pic/%E4%B8%AA%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
